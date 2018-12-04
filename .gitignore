@@ -1,0 +1,10 @@
+.*
+*~
+*.log
+*.tar.gz
+*.out
+
+test/
+vendor/*/
+
+go.sum
